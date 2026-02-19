@@ -12,7 +12,7 @@
 <div align="center">
 
 🎓 Software Engineering Student @ EPN  
-💡 Interested in **Software Design, Frontend & API Development**  
+💡 Interested in **Software Design, Frontend & Backend Development**  
 
 </div>
 
