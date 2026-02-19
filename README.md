@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Evelin Rocha</h1>
+<h3 align="center">💻 Software Engineering Student | EPN 🇪🇨</h3>
 
-<!--
-**EveRocha11/EveRocha11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Artificial+Intelligence+Student;Distributed+Databases;Software+Design+Lover;Backend+in+progress" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 About me
+
+- 🎓 Software Engineering @ EPN
+- 🤖 Currently learning **Artificial Intelligence**
+- 🗄️ Working with **Distributed Databases**
+- 🎨 Interested in **Software Design & Frontend**
+- 🌱 Always learning new things
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql,git,github,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=EveRocha11&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=EveRocha11&theme=tokyonight"/>
+</p>
