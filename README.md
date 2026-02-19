@@ -6,7 +6,7 @@
 </p>
 
 ---
-### About me
+## About me
 
 <div align="center">
 
@@ -20,7 +20,7 @@ Always learning new things
 
 ---
 
- ### Skills
+ ## Skills
 
 <div align="center">
 
