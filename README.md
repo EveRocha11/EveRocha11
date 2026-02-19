@@ -6,10 +6,11 @@
 </p>
 
 ---
+### About me
 
 <div align="center">
 
-### About me
+
 
 Software Engineering @ EPN  
 Interested in **Software Design & Frontend**  
@@ -19,10 +20,11 @@ Always learning new things
 
 ---
 
+ ### Skills
 
 <div align="center">
 
-  ### Skills
+ 
 
 ### Languages
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
