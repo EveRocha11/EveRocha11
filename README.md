@@ -11,7 +11,7 @@
 
 <div align="center">
 
-  Software Engineering Student @ EPN  
+  Software Engineering Student at Escuela Politécnica Nacional (EPN)  
   Interested in **Software Design, Frontend & Backend Development**  
 
 </div>
