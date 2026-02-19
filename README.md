@@ -6,13 +6,13 @@
 
 ### About me
 
-- 🎓 Software Engineering @ EPN
-- 🎨 Interested in **Software Design & Frontend**
+- Software Engineering @ EPN
+- Interested in **Software Design & Frontend**
 - 🌱 Always learning new things
 
 ---
 
-### 🛠️ Languages and Tools
+### Languages and Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,html,css,git,github,vscode" />
