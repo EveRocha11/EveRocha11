@@ -13,7 +13,6 @@
 
 🎓 Software Engineering Student @ EPN  
 💡 Interested in **Software Design, Frontend & API Development**  
-🚀 Always learning new things  
 
 </div>
 
@@ -33,8 +32,8 @@
 <img src="https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-### Backend & APIs
-<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
+### Backend 
+
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 
 ### Tools
