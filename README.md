@@ -21,7 +21,8 @@ Always learning new things
 
 
 <div align="center">
-## 💻 Skills
+
+  ## 💻 Skills
 
 ### Languages
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -37,7 +38,6 @@ Always learning new things
 <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-2C2C32?style=for-the-badge&logo=visualstudiocode&logoColor=22ABF3"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
 </div>
 
