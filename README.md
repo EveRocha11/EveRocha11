@@ -11,8 +11,8 @@
 
 <div align="center">
 
-🎓 Software Engineering Student @ EPN  
-💡 Interested in **Software Design, Frontend & Backend Development**  
+  Software Engineering Student @ EPN  
+  Interested in **Software Design, Frontend & Backend Development**  
 
 </div>
 
