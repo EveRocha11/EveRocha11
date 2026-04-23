@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Evelin Rocha</h1>
-<h3 align="center">💻 Software Engineering Student | EPN 🇪🇨</h3>
+<h3 align="center">Software Engineering Student | EPN 🇪🇨</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Always+learning+new+things" />
@@ -23,7 +23,7 @@
 <div align="center">
 
 ### Languages
-<img src="https://img.shields.io/badge/C%2B%2B-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-1E415E?style=for-the-badge&logo=python&logoColor=white"/>
 
@@ -34,7 +34,7 @@
 
 ### Databases
 
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 
 ### Tools
